@@ -1,0 +1,5 @@
+sprint_id,sprint_name,start_date,end_date,planned_story_points,actual_story_points
+SPRINT-1,Foundation Sprint,2024-07-01,2024-07-10,15,13
+SPRINT-2,Core Features Sprint,2024-07-15,2024-07-30,25,29
+SPRINT-3,Enhancement Sprint,2024-08-01,2024-08-15,20,21
+SPRINT-4,Launch Preparation Sprint,2024-08-15,2024-08-30,15,17
