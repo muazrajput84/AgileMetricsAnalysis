@@ -1,0 +1,18 @@
+task_id,task_name,assignee,story_points,sprint_id,start_date,due_date,end_date,status,delay_reason,task_type
+TASK-101,Design User Login Interface,Ali Ahmed,3,SPRINT-1,2024-07-01,2024-07-05,2024-07-05,Completed,None,Development
+TASK-102,Implement Authentication API,Fatima Khan,5,SPRINT-1,2024-07-01,2024-07-06,2024-07-07,Completed,Technical Issues,Development
+TASK-103,Create Database Schema,Muhammad Bilal,2,SPRINT-1,2024-07-02,2024-07-04,2024-07-04,Completed,None,Development
+TASK-104,Write Unit Tests for Login,Ayesha Siddiqui,3,SPRINT-1,2024-07-05,2024-07-08,2024-07-09,Completed,Waiting for Review,Testing
+TASK-105,Develop User Dashboard UI,Usman Raza,8,SPRINT-2,2024-07-15,2024-07-22,2024-07-23,Completed,Requirements Changed,Development
+TASK-106,Integrate Payment Gateway,Zainab Malik,13,SPRINT-2,2024-07-16,2024-07-25,2024-07-28,Completed,Third-party API Delay,Integration
+TASK-107,Performance Optimization,Hassan Shah,5,SPRINT-2,2024-07-18,2024-07-24,2024-07-24,Completed,None,Development
+TASK-108,API Documentation,Sana Sheikh,3,SPRINT-2,2024-07-22,2024-07-26,2024-07-29,Completed,Waiting for Approval,Documentation
+TASK-109,Mobile Responsive Design,Omar Farooq,5,SPRINT-3,2024-08-01,2024-08-07,2024-08-07,Completed,None,Development
+TASK-110,Admin Panel Development,Hina Aslam,8,SPRINT-3,2024-08-02,2024-08-09,2024-08-11,Completed,Additional Features,Development
+TASK-111,Security Testing,Bilal Iqbal,3,SPRINT-3,2024-08-05,2024-08-08,2024-08-10,Completed,Complex Scenarios,Testing
+TASK-112,User Manual Documentation,Sadia Rahman,5,SPRINT-3,2024-08-07,2024-08-12,2024-08-14,Completed,Content Revision,Documentation
+TASK-113,Final Integration Testing,Ahmed Hassan,5,SPRINT-4,2024-08-15,2024-08-20,2024-08-20,Completed,None,Testing
+TASK-114,Bug Fixing Round 1,Maria Khan,3,SPRINT-4,2024-08-16,2024-08-19,2024-08-21,Completed,Critical Issues,Maintenance
+TASK-115,Deployment Preparation,Imran Butt,2,SPRINT-4,2024-08-18,2024-08-21,2024-08-22,Completed,Server Configuration,Deployment
+TASK-116,Client Training Material,Amina Akhtar,4,SPRINT-4,2024-08-19,2024-08-23,2024-08-25,Completed,Client Feedback,Documentation
+TASK-117,Post-Launch Monitoring,Faisal Mahmood,3,SPRINT-4,2024-08-22,2024-08-26,2024-08-26,Completed,None,Maintenance
