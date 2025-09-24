@@ -1,0 +1,11 @@
+bug_id,related_task_id,date_reported,severity,status,assignee
+BUG-001,TASK-102,2024-07-08,Major,Resolved,Fatima Khan
+BUG-002,TASK-105,2024-07-24,Critical,Resolved,Usman Raza
+BUG-003,TASK-107,2024-07-25,Minor,Resolved,Hassan Shah
+BUG-004,TASK-109,2024-08-08,Minor,Resolved,Omar Farooq
+BUG-005,TASK-110,2024-08-12,Major,Resolved,Hina Aslam
+BUG-006,TASK-105,2024-07-26,Minor,Resolved,Usman Raza
+BUG-007,TASK-111,2024-08-11,Critical,Resolved,Bilal Iqbal
+BUG-008,TASK-114,2024-08-22,Major,Resolved,Maria Khan
+BUG-009,TASK-102,2024-07-10,Minor,Resolved,Fatima Khan
+BUG-010,TASK-113,2024-08-21,Minor,Resolved,Ahmed Hassan
